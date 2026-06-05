@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavishya Pattanayak</h1>
-<h3 align="center">An aspiring Machine Learning Developer</h3>
+<h3 align="center">M.Sc. Data Science & AI @ Saarland University
+Interested in NLP, Information Retrieval, and Language Models</h3>
 
 - 🔭 I’m currently working on [Text Summarization with DistilBERT-Phi 2](https://github.com/BhavishyaPattanayak/Text-Summarization-using-DistilBERT-Phi-2)
 
